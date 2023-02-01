@@ -1,0 +1,8 @@
+Models/gpt-model-shakespeare-subword.pth filter=lfs diff=lfs merge=lfs -text
+Models/gpt-model-shakespeare.pth filter=lfs diff=lfs merge=lfs -text
+Models/gpt-model-state-dict-lovecraft-subword.pth filter=lfs diff=lfs merge=lfs -text
+Models/gpt-model-state-dict-lovecraft.pth filter=lfs diff=lfs merge=lfs -text
+Models/gpt-model-state-dict-shakespeare-subword.pth filter=lfs diff=lfs merge=lfs -text
+Models/gpt-model-state-dict-shakespeare.pth filter=lfs diff=lfs merge=lfs -text
+Models/gpt-model-lovecraft-subword.pth filter=lfs diff=lfs merge=lfs -text
+Models/gpt-model-lovecraft.pth filter=lfs diff=lfs merge=lfs -text
