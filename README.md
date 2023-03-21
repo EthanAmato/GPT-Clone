@@ -11,7 +11,7 @@ To run this notebook, you need to have the following libraries installed:
 ## You can install these libraries using pip by running the following command:
 ```
 bash
-Copy code\n
+Copy code
 !pip install torch numpy pandas 
 ```
 ## Dataset
