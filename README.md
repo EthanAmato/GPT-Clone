@@ -9,11 +9,11 @@ To run this notebook, you need to have the following libraries installed:
 - Pandas
 
 ## You can install these libraries using pip by running the following command:
-`
-bash\n
+```
+bash
 Copy code\n
 !pip install torch numpy pandas 
-`
+```
 ## Dataset
 This project uses a dataset of Shakespeare's plays, which can be downloaded from here. The dataset consists of a CSV file with columns for the play name, the act number, the scene number, and the text of the scene.
 
